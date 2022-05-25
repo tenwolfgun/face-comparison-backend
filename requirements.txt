@@ -29,7 +29,7 @@ numpy==1.19.0
 Pillow==7.2.0
 pycodestyle==2.6.0
 pycparser==2.20
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.5.3
 pylint-flask-sqlalchemy==0.2.0
 PyMySQL==0.9.3
